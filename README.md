@@ -1,5 +1,5 @@
 
-just hacking with this brain mnist dataset:
+(WIP) just hacking with this brain mnist dataset:
 
 http://mindbigdata.com/opendb/
 
@@ -29,6 +29,6 @@ Please note that these are high-level steps and the actual implementation might 
 
 useful papers to build classifiers:
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9955721/
-https://link.springer.com/article/10.1007/s13369-022-07313-3
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9955721/
+- https://link.springer.com/article/10.1007/s13369-022-07313-3
 
